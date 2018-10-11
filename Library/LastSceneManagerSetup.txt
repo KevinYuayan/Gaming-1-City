@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Lab 1/Scene/Sample 1.unity
+- path: Assets/JohnYuayan/Scene/CityScene.unity
   isLoaded: 1
   isActive: 1

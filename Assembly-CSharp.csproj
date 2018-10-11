@@ -64,9 +64,10 @@
     <Compile Include="Assets\CityTools\script\BuildingCreator.cs" />
     <Compile Include="Assets\CityTools\script\CriarPredio.cs" />
     <Compile Include="Assets\CityTools\script\Flycam.cs" />
-    <Compile Include="Assets\Lab 1\Scripts\CameraSwitcher.cs" />
-    <Compile Include="Assets\Lab 1\Scripts\PictureInPicture.cs" />
-    <Compile Include="Assets\Lab 1\Scripts\SceneCapture.cs" />
+    <Compile Include="Assets\JohnYuayan\Scripts\CameraSwitcher.cs" />
+    <Compile Include="Assets\JohnYuayan\Scripts\PictureInPicture.cs" />
+    <Compile Include="Assets\JohnYuayan\Scripts\Radar.cs" />
+    <Compile Include="Assets\JohnYuayan\Scripts\SceneCapture.cs" />
     <Compile Include="Assets\Prototype Materials\ShowcaseMovement.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
